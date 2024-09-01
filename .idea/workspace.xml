@@ -4,30 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec74955e-a254-40dc-b7d0-7ecef0ad32e0" name="Changes" comment="심화1 전체커밋">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bj_문자열/bj_10809_문자열_알파벳찾기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bj_문자열/bj_1152_문자열_단어의개수_풀이1_빈문자열예외처리.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bj_문자열/bj_1152_문자열_단어의개수_풀이2_countTokens메소드.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bj_문자열/bj_11720_문자열_숫자의합_getBytes사용.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bj_문자열/bj_2675_문자열_문자열반복_풀이1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bj_문자열/bj_2675_문자열_문자열반복_풀이2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bj_문자열/bj_27866_문자열_문자와문자열.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bj_문자열/bj_2908_문자열_상수_문자열뒤집기_StringBuilder_reverse메소드.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bj_문자열/bj_5622_문자열_다이얼_switch문.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bj_문자열/bj_9086_문자열_문자열.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bj_배열/bj_10810_배열_공넣기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bj_배열/bj_10811_배열_바구니뒤집기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bj_배열/bj_10813_배열_공바꾸기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bj_배열/bj_1546_배열_평균.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bj_배열/bj_3052_배열_나머지_HashSet사용.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bj_배열/bj_5597_배열_과제안내신분.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bj_심화1/bj_10988_심화1_펠린드롬인지확인하기_화문.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bj_심화1/bj_2444_심화1_별찍기7_다이아몬드출력_절반높이.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bj_심화1/bj_3003_심화1_킹퀸룩비숍나이트폰.java" afterDir="false" />
+    <list default="true" id="ec74955e-a254-40dc-b7d0-7ecef0ad32e0" name="Changes" comment="문자열, 배열 전체커밋&#10;심화1 3개커밋">
+      <change afterPath="$PROJECT_DIR$/src/bj_심화1/bj_1316_심화1_그룹단어_prev알고리즘.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bj_1157_심화1_단어공부.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bj_심화1/bj_1157_심화1_단어공부.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -124,12 +104,32 @@
       <option name="project" value="LOCAL" />
       <updated>1725189398244</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="문자열, 배열 전체커밋&#10;심화1 3개커밋">
+      <option name="closed" value="true" />
+      <created>1725191197726</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1725191197726</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="심화1 첫커밋" />
     <MESSAGE value="심화1 전체커밋" />
-    <option name="LAST_COMMIT_MESSAGE" value="심화1 전체커밋" />
+    <MESSAGE value="문자열, 배열 전체커밋&#10;심화1 3개커밋" />
+    <option name="LAST_COMMIT_MESSAGE" value="문자열, 배열 전체커밋&#10;심화1 3개커밋" />
   </component>
 </project>
