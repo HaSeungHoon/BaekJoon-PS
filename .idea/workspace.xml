@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec74955e-a254-40dc-b7d0-7ecef0ad32e0" name="Changes" comment="문자열, 배열 전체커밋&#10;심화1 3개커밋">
-      <change afterPath="$PROJECT_DIR$/src/bj_심화1/bj_1316_심화1_그룹단어_prev알고리즘.java" afterDir="false" />
+    <list default="true" id="ec74955e-a254-40dc-b7d0-7ecef0ad32e0" name="Changes" comment="심화1 그룹단어 커밋">
+      <change afterPath="$PROJECT_DIR$/src/bj_심화1/bj_25206_심화1_너의평점은_평균학점출력.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -112,7 +112,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725191197726</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="심화1 그룹단어 커밋">
+      <option name="closed" value="true" />
+      <created>1725196403192</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1725196403192</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -130,6 +138,7 @@
     <MESSAGE value="심화1 첫커밋" />
     <MESSAGE value="심화1 전체커밋" />
     <MESSAGE value="문자열, 배열 전체커밋&#10;심화1 3개커밋" />
-    <option name="LAST_COMMIT_MESSAGE" value="문자열, 배열 전체커밋&#10;심화1 3개커밋" />
+    <MESSAGE value="심화1 그룹단어 커밋" />
+    <option name="LAST_COMMIT_MESSAGE" value="심화1 그룹단어 커밋" />
   </component>
 </project>
