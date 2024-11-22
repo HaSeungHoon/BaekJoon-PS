@@ -4,14 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec74955e-a254-40dc-b7d0-7ecef0ad32e0" name="Changes" comment="심화1 너의평점은 커밋">
-      <change afterPath="$PROJECT_DIR$/src/bj_2차원배열/bj_10798_2차원배열_세로읽기.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bj_2차원배열/bj_2563_2차원배열_색종이.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bj_2차원배열/bj_2566_2차원배열_최댓값.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bj_2차원배열/bj_2738_2차원배열_행렬덧셈.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bj_심화1/bj_2941_심화1_크로아티아알파벳_if문중첩.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bj_일반수학1/bj_2720_일반수학1_세탁소사장동혁_거스름돈.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/bj_일반수학1/bj_2903_일반수학1_중앙이동알고리즘_pow_sqrt.java" afterDir="false" />
+    <list default="true" id="ec74955e-a254-40dc-b7d0-7ecef0ad32e0" name="Changes" comment="심화1 종료 커밋&#10;2차원배열 종료 커밋&#10;일반수학 2문제 커밋">
+      <change afterPath="$PROJECT_DIR$/src/bj_일반수학1/bj_2745_일반수학1_진법변환.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bj_정렬/bj_2587_정렬_대표값2_중앙값.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/bj_정렬/bj_2750_정렬_버블정렬_오름차순.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
@@ -137,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725289095233</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="심화1 종료 커밋&#10;2차원배열 종료 커밋&#10;일반수학 2문제 커밋">
+      <option name="closed" value="true" />
+      <created>1726244742821</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1726244742821</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -157,6 +161,7 @@
     <MESSAGE value="문자열, 배열 전체커밋&#10;심화1 3개커밋" />
     <MESSAGE value="심화1 그룹단어 커밋" />
     <MESSAGE value="심화1 너의평점은 커밋" />
-    <option name="LAST_COMMIT_MESSAGE" value="심화1 너의평점은 커밋" />
+    <MESSAGE value="심화1 종료 커밋&#10;2차원배열 종료 커밋&#10;일반수학 2문제 커밋" />
+    <option name="LAST_COMMIT_MESSAGE" value="심화1 종료 커밋&#10;2차원배열 종료 커밋&#10;일반수학 2문제 커밋" />
   </component>
 </project>
