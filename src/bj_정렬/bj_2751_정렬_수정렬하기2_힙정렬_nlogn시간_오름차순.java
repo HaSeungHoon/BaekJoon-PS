@@ -6,7 +6,7 @@ import java.lang.*;
 public class bj_2751_정렬_수정렬하기2_힙정렬_nlogn시간_오름차순 {
 
     //HeapUp방식으로 힙 재정렬
-    static void HeapUp(int H[], int k){//인덱스 k
+    static void HeapUp(int H[], int k){//인덱스 k  
         if(k> 1){
             int p = k/2;
             if(H[k]>H[p]){
