@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ec74955e-a254-40dc-b7d0-7ecef0ad32e0" name="Changes" comment="백준 정렬 1차커밋">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/bj_정렬/bj_2751_정렬_수정렬하기2_힙정렬_nlogn시간_오름차순.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/bj_정렬/bj_2751_정렬_수정렬하기2_힙정렬_nlogn시간_오름차순.java" afterDir="false" />
-    </list>
+    <list default="true" id="ec74955e-a254-40dc-b7d0-7ecef0ad32e0" name="Changes" comment="백준 정렬 2차커밋" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -156,7 +152,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732438656200</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="백준 정렬 2차커밋">
+      <option name="closed" value="true" />
+      <created>1741231717097</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1741231717097</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -178,6 +182,7 @@
     <MESSAGE value="심화1 너의평점은 커밋" />
     <MESSAGE value="심화1 종료 커밋&#10;2차원배열 종료 커밋&#10;일반수학 2문제 커밋" />
     <MESSAGE value="백준 정렬 1차커밋" />
-    <option name="LAST_COMMIT_MESSAGE" value="백준 정렬 1차커밋" />
+    <MESSAGE value="백준 정렬 2차커밋" />
+    <option name="LAST_COMMIT_MESSAGE" value="백준 정렬 2차커밋" />
   </component>
 </project>
