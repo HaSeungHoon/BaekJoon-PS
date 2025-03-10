@@ -9,6 +9,7 @@ public class bj_10989번_수정렬하기_카운팅정렬 {
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         StringBuilder sb = new StringBuilder();
 
+        //수의 범위만큼 인덱스 필요함
         int[] counting = new int[10001];
 
         int N = Integer.parseInt(br.readLine());
