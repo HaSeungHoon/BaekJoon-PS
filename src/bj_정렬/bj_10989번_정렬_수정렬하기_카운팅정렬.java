@@ -3,7 +3,7 @@ package bj_정렬;
 import java.io.*;
 import java.lang.*;
 
-public class bj_10989번_수정렬하기_카운팅정렬 {
+public class bj_10989번_정렬_수정렬하기_카운팅정렬 {
     public static void main(String[] args) throws IOException {
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

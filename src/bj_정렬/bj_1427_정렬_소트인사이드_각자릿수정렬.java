@@ -2,7 +2,7 @@ package bj_정렬;
 import java.io.*;
 import java.lang.*;
 
-public class bj_1427_소트인사이드_각자릿수정렬 {
+public class bj_1427_정렬_소트인사이드_각자릿수정렬 {
     public static void main(String[] args) throws IOException {
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));

@@ -1,9 +1,10 @@
+package bj_정렬;
+
 import java.io.*;
 import java.lang.*;
 import java.util.StringTokenizer;
 
-public class Main {
-
+public class bj_정렬_선택정렬 {
     static int getMinIdx(int[] arr, int len, int start, int end){
         int idx = start;
 
