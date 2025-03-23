@@ -1,9 +1,9 @@
-package bj_정렬;
+package bj_일반수학1;
 
 import java.io.*;
 import java.lang.*;
 
-public class bj_2292_수학1_벌집_공비규칙찾기 {
+public class bj_2292_일반수학1_벌집_공비규칙찾기 {
     public static void main(String[] args) throws IOException {
 
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
